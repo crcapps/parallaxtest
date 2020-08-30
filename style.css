@@ -1,0 +1,23 @@
+#scene>li>div:nth-child(1) {
+  background-image: url("mountains_5.svg");
+}
+
+#scene>li>div:nth-child(26) {
+  background-image: url("mountains_4.svg");
+}
+
+#scene>li>div:nth-child(3) {
+  background-image: url("mountains_3.svg");
+}
+
+#scene>li>div:nth-child(4) {
+  background-image: url("mountains_2.svg");
+}
+
+#scene>li>div:nth-child(5) {
+  background-image: url("mountains_1.svg");
+}
+
+#scene>li>div:nth-child() {
+  background-image: url("houses.svg");
+}
